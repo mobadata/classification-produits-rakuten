@@ -31,26 +31,7 @@ Prédire la catégorie de produits (`prdtypecode`) à partir des informations te
 3. **Modélisation** : Développement de modèles de classification multi-classes
 4. **Évaluation** : Métriques de performance adaptées à la classification multi-classes
 
-## Installation
-
-```bash
-# Créer un environnement virtuel (recommandé)
-python3 -m venv venv
-source venv/bin/activate  # Sur Windows: venv\Scripts\activate
-
-# Installer les dépendances (à venir)
-pip install -r requirements.txt
-```
-
-## Utilisation
-
-(À compléter après développement du code)
-
 ## Auteurs
 
-[À compléter avec les noms des membres du groupe]
-
-## Licence
-
-[À compléter]
+Moussa BA, Ben djabir Chipinda et Nedjai Azzedine
 
