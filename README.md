@@ -33,5 +33,7 @@ Prédire la catégorie de produits (`prdtypecode`) à partir des informations te
 
 ## Auteurs
 
-Moussa BA, Ben djabir Chipinda et Nedjai Azzedine
+- Moussa BA
+- Ben djabir Chipinda
+- Nedjai Azzedine
 
