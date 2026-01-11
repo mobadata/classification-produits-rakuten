@@ -23,11 +23,6 @@ pip-delete-this-directory.txt
 *~
 .DS_Store
 
-# Data files (optionnel - décommentez si vous ne voulez pas versionner les CSV)
-# *.csv
-# *.xlsx
-# *.parquet
-
 # Modèles et résultats
 *.pkl
 *.joblib
