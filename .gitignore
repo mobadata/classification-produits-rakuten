@@ -14,6 +14,16 @@ pip-delete-this-directory.txt
 # Jupyter Notebook
 .ipynb_checkpoints
 *.ipynb
+# Exception : notebook de nettoyage des textes
+!01_exploration_et_nettoyage_textes.ipynb
+# Exclure spécifiquement le notebook d'images
+02_exploration_images.ipynb
+
+# Plans et documents de travail
+PLAN_DE_TRAVAIL.md
+# Exclure les fichiers markdown (sauf README.md)
+*.md
+!README.md
 
 # IDEs
 .vscode/
