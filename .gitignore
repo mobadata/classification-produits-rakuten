@@ -35,6 +35,7 @@ PLAN_DE_TRAVAIL.md
 
 # Documents (non versionnés)
 *.pdf
+*.tex
 *.xlsx
 
 # Modèles et résultats
