@@ -33,6 +33,10 @@ PLAN_DE_TRAVAIL.md
 *~
 .DS_Store
 
+# Documents (non versionnés)
+*.pdf
+*.xlsx
+
 # Modèles et résultats
 *.pkl
 *.joblib
